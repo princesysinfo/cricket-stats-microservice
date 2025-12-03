@@ -1,0 +1,6 @@
+@CricketStats.API_HostAddress = http://localhost:5269
+
+GET {{CricketStats.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
